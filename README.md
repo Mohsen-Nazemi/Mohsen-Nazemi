@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohsen-Nazemi
-- 👀 I’m interested in Front-End-->Vue.js -- HTML -- CSS -- JAVASCRIPT-- BootStrap -- Figma
-- 🌱 I’m currently learning Vue.js -- Figma
+- 👀 I’m interested in Front-End-->Vue.js -- HTML -- CSS -- JAVASCRIPT-- BootStrap
+- 🌱 I’m currently learning Vue.js 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
